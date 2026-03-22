@@ -89,7 +89,7 @@ Change password
 Delete account (backend supported)
 
 🛠️ 1️⃣ Clone the Project
-git clone https://github.com/hiranmai12/Malaria-detection-system.git
+git clone https://github.com/kothapallykeerthana04/Malaria-detection-system.git
 cd malaria-detection
 
 🔧 2️⃣ Backend Setup (Flask + venv + Model)
